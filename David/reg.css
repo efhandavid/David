@@ -1,0 +1,50 @@
+.close {
+    position: absolute;
+    right: 14%;
+    top: 13%;
+}
+
+h1 {
+    color: rgb(211, 27, 27);
+}
+
+.fl {
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.em {
+    width: 57%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20%;
+    background-image: url(https://w0.peakpx.com/wallpaper/304/784/HD-wallpaper-avatar-scene-forest-widescreen-tree-moon-sun-view-nature-avatar.jpg);
+    background-size: cover;
+}
+
+.btn-primary {
+    position: relative;
+    left: 1%;
+}
+
+.btn-outline-secondary {
+    color: rgb(231, 18, 18);
+}
+
+.btn-outline-secondary:hover {
+    background: black;
+}
+
+.ca {
+    right: 0%;
+    margin-top: 1%;
+}
+
+.form-check-input {
+    margin-top: 15px;
+}
